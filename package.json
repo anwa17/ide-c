@@ -1,15 +1,13 @@
 {
   "name": "ide-c",
   "main": "./lib/ide-c",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Soon-to-be home of ide-clangd",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/jbree/ide-c",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
