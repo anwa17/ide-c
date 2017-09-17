@@ -1,0 +1,15 @@
+{
+  "name": "ide-c",
+  "main": "./lib/ide-c",
+  "version": "0.0.0",
+  "description": "Soon-to-be home of ide-clangd",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/ide-c",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
