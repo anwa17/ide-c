@@ -5,7 +5,7 @@
   "description": "Soon-to-be home of ide-clangd",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/ide-c",
+  "repository": "https://github.com/jbree/ide-c",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
