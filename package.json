@@ -1,7 +1,7 @@
 {
   "name": "ide-c",
   "main": "./lib/ide-c",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Soon-to-be home of ide-clangd",
   "keywords": [],
   "repository": "https://github.com/jbree/ide-c",
